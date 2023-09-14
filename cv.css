@@ -16,6 +16,8 @@ h1 {
     text-align: center;
     text-shadow: 2px 2px white; 
     font-size: 10ch;
+    font-family:'Lugrasimo', cursive;
+    
     
 
 }
@@ -35,4 +37,11 @@ h2 {
     border: 2px solid black;
     border-radius: 5px;
     padding: 5px;
+}
+
+
+@font-face {
+    font-family:'Lugrasimo', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+    
 }
