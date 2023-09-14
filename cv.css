@@ -1,24 +1,22 @@
-
-
 body {
 
-    
+
     font-family: "Times New Roman", Times, serif;
-    
+
     background-image: url(grey.jpeg);
-    background-size : cover;
-    background-position : center;
+    background-size: cover;
+    background-position: center;
 }
 
 
 h1 {
     color: black;
     text-align: center;
-    text-shadow: 2px 2px white; 
+    text-shadow: 2px 2px white;
     font-size: 10ch;
-    font-family:'Lugrasimo', cursive;
-    
-    
+    font-family: 'Lugrasimo', cursive;
+
+
 
 }
 
@@ -32,8 +30,8 @@ img {
 
 h2 {
     color: black;
-    background-color: lightgrey; 
-    
+    background-color: lightgrey;
+
     border: 2px solid black;
     border-radius: 5px;
     padding: 5px;
@@ -41,7 +39,7 @@ h2 {
 
 
 @font-face {
-    font-family:'Lugrasimo', cursive;
+    font-family: 'Lugrasimo', cursive;
     src: url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
-    
+
 }
